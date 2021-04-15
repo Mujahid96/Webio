@@ -1,0 +1,62 @@
+
+        .design {
+            font-size: medium;
+            font-weight: bold;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: mediumaquamarine;
+        
+        }
+        .align
+        {
+            text-align: center;
+        }
+
+        .list {
+            color: purple;
+            font-size: medium;
+        }
+
+        #headsn {
+            color: crimson;
+            font-size: larger;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: 900;
+            background-color: deepskyblue;
+            width: 81%;
+        }
+
+        img {
+            width: 40%;
+            align-content: center;
+        
+        }
+
+        #markup {
+            color: gold;
+            font-size: larger;
+            font-weight: 900;
+
+            background-color: rgb(23, 209, 23);
+        }
+
+        h1 {
+           
+            color: deepskyblue;
+        }
+
+        .block {
+            border: 4px solid crimson;
+            border-radius: 40px;
+            border-color: burlywood;
+           border-width: thick;
+           margin: 20px 20px 10px 40px;
+           padding: 10px 5px 10px 5px;
+           width: 30%;
+         display:inline-table;
+          
+         
+        }
+        .dot{
+            border: 4px double rgb(140, 33, 240);
+        }
+    
